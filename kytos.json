@@ -6,5 +6,6 @@
 "description": "Basic L2 switch for Kytos",
 "license": "MIT",
 "git": "https://github.com/beraldoleal/l2switch.git",
-"tags": ["switch", "l2", "basic"]
+"tags": ["switch", "l2", "basic"],
+"author": "Beraldo Leal <beraldo@cern.ch>"
 }
