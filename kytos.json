@@ -1,11 +1,11 @@
 {
 "name": "l2switch",
+"description": "Basic L2 switch for Kytos",
 "version": "0.0.1",
+"author": "beraldo",
 "ofversion": "1.3",
 "dependencies": "None",
-"description": "Basic L2 switch for Kytos",
 "license": "MIT",
 "git": "https://github.com/beraldoleal/l2switch.git",
-"tags": ["switch", "l2", "basic"],
-"author": "Beraldo Leal <beraldo@cern.ch>"
+"tags": ["switch", "l2", "basic"]
 }
